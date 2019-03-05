@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TackePhoto</string>
+
+    <string name="settings">ตั้งค่า</string>
+    <string name="help">ช่วยเหลือ</string>
+    <string name="string_help_text"> The permission is missing.\n\nTo grant this permission click on Settings, then Permissions and turn the permission on.\n\nThen click back twice to return to the app</string>
+    <string name="quit">ออกจากแอพลิเคชั่น</string>
+    <string name="string_choose_image">เลือกภาพเพื่ออัพโหลด</string>
+    <string name="string_unable_to_pick_image">Unable to Pickup Image</string>
+    <string name="string_unable_to_load_image">Unable to Load Image</string>
+    <string name="string_message_to_attach_file">กรุณาถ่ายภาพ หรือ เลือกรูปถ่ายจากอัลบั้ม</string>
+</resources>
